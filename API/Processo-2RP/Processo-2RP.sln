@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Processo-2RP", "Processo-2RP\Processo-2RP.csproj", "{63394F50-EA37-4DD6-A41B-F2589291CB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63394F50-EA37-4DD6-A41B-F2589291CB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63394F50-EA37-4DD6-A41B-F2589291CB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63394F50-EA37-4DD6-A41B-F2589291CB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63394F50-EA37-4DD6-A41B-F2589291CB42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C5F7946-963E-40EA-9423-BD8B3F0B94D7}
+	EndGlobalSection
+EndGlobal
